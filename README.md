@@ -1,5 +1,7 @@
 # GNU Trove 3.0.3 — LGPL-2.1 source release
 
+![The product the seller shipped — a poker solver that statically links GNU Trove](software-screenshot.png)
+
 This repository publishes the source code of [GNU Trove
 3.0.3](https://bitbucket.org/trove4j/trove) (LGPL-2.1) as it was
 bundled inside a closed-source Java product whose source code I
@@ -14,6 +16,13 @@ modification* the LGPL-2.1 requires. When I asked him for an
 unobfuscated version, he did not send one. I am publishing the
 deobfuscated sources here to fulfil **his** license obligation
 on his behalf.
+
+![Seller's stated license terms](evidence/0_licence-condition.png)
+
+> *"The code is sold as-is, and is free to be redistributed,
+> resold or used however they see fit."* — the seller, on the
+> license terms. The Trove portion is LGPL-2.1; "as-is" is not
+> on the menu, and neither is shipping it stripped of symbols.
 
 ## What's in here
 
@@ -55,6 +64,15 @@ on his behalf.
    output with the single-letter names still in place.
 4. I asked the seller for an unobfuscated version. He did not
    send one. Screenshots of the exchange are in `evidence/`.
+
+   ![Seller refuses to provide unobfuscated source](evidence/0_refuses_to_give_real_source.png)
+   ![Seller doubles down](evidence/0_refuses_to_give_real_source_2.png)
+
+   > *"No it cannot, you do not get class names, or any variable
+   > names with decompiled code, like you do in the code I
+   > sent."* — the seller, conceding on the record that what he
+   > shipped is decompiler output, not source, and declining to
+   > provide anything more.
 5. Rather than keep arguing with him, I deobfuscated the Trove
    portion myself. The pipeline:
    - drove [Claude Code](https://claude.com/claude-code) over the
@@ -136,3 +154,22 @@ General Public License, version 2.1. See [`LICENSE`](LICENSE).
 - Eric D. Friedman and the GNU Trove contributors, for the
   original library.
 - The deobfuscation pass was done with Claude Code (Anthropic).
+
+## Coda
+
+<table>
+<tr><td>通智初临人世新，</td><td>General intelligence newly descends — the world made new,</td></tr>
+<tr><td>同操一器异乎邻。</td><td>wielding the same instrument, yet unlike our neighbors.</td></tr>
+<tr><td>君翻千码如飞雪，</td><td>You overturn a thousand lines like scattering snow,</td></tr>
+<tr><td>我整残篇复旧真。</td><td>I gather the broken pages and restore them whole.</td></tr>
+</table>
+
+<table>
+<tr><td>通智の代の百年も、</td><td>A hundred years of the AGI age —</td></tr>
+<tr><td>人事のうちを比ぶれば、</td><td>weighed against the affairs of men,</td></tr>
+<tr><td>夢幻のごとくなり。</td><td>are but as a dream, an illusion.</td></tr>
+<tr><td>彼クロードもて乱せども、</td><td>Though he, with Claude, throws all into disorder,</td></tr>
+<tr><td>我またクロードもて直す。</td><td>I, too, with Claude, set it right again.</td></tr>
+<tr><td>一度コードを記して、</td><td>Once a line of code is written down —</td></tr>
+<tr><td>朽ちぬもののあるべきか。</td><td>can there be anything that does not decay?</td></tr>
+</table>
