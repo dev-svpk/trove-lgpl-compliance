@@ -1,0 +1,96 @@
+# custom-squid: build the patched Squid jar from source.
+
+set shell := ["bash", "-euo", "pipefail", "-c"]
+
+maven   := "https://repo1.maven.org/maven2"
+hc_ver  := "5.0.1"
+slf_ver := "1.7.25"
+
+# List available recipes.
+default:
+    @just --list
+
+# Download jar dependencies into ./libs.
+deps:
+    #!/usr/bin/env bash
+    set -euo pipefail
+    mkdir -p libs
+
+    hc_client=(httpclient5 httpclient5-cache httpclient5-fluent httpclient5-testing httpclient5-win)
+    hc_core=(httpcore5 httpcore5-h2 httpcore5-reactive httpcore5-testing)
+
+    fetch() {
+      local path=$1 out="libs/$(basename "$1")"
+      [ -f "$out" ] || curl -fsSL "{{maven}}/$path" -o "$out"
+    }
+
+    for a in "${hc_client[@]}"; do
+      fetch "org/apache/httpcomponents/client5/$a/{{hc_ver}}/$a-{{hc_ver}}.jar"
+    done
+    for a in "${hc_core[@]}"; do
+      fetch "org/apache/httpcomponents/core5/$a/{{hc_ver}}/$a-{{hc_ver}}.jar"
+    done
+    fetch "org/slf4j/slf4j-api/{{slf_ver}}/slf4j-api-{{slf_ver}}.jar"
+    fetch "org/slf4j/slf4j-nop/{{slf_ver}}/slf4j-nop-{{slf_ver}}.jar"
+
+# Compile sources into releases/custom-squid.jar.
+build: deps
+    mkdir -p releases
+    find src -name '*.java' > releases/sources.txt
+    javac -cp 'libs/*' -d releases @releases/sources.txt
+    cp -r src/resources releases/
+    cp -r trees/. releases/trees/
+    rm -f releases/custom-squid.jar
+    jar cfm releases/custom-squid.jar src/META-INF/MANIFEST.MF -C releases .
+
+# Remove build artifacts.
+clean:
+    rm -rf releases
+
+# Rename-aware source-equivalence check vs base ref (default: master).
+# Pass `--gnu` (as the second arg) to also compare src/gnu/*; otherwise it's skipped.
+source-check ref='master' gnu='':
+    #!/usr/bin/env bash
+    set -euo pipefail
+    work=$(mktemp -d)
+    base_src="$work/base-src"
+    trap 'git worktree remove --force "$base_src" >/dev/null 2>&1 || true; rm -rf "$work"' EXIT
+    git worktree add -f --detach "$base_src" {{ref}} >/dev/null
+    extra=()
+    if [ "{{gnu}}" != "--gnu" ]; then
+      extra+=(--exclude gnu/)
+    fi
+    python3 scripts/java-equiv-check.py --label1 {{ref}} --label2 head "${extra[@]}" "$base_src/src" src
+
+# Rename-aware bytecode-equivalence check vs base ref (default: master).
+# Pass `--gnu` (as the second arg) to also compare src/gnu/*; otherwise it's skipped.
+bytecode-check ref='master' gnu='': deps build
+    #!/usr/bin/env bash
+    set -euo pipefail
+    repo=$(pwd)
+    work=$(mktemp -d)
+    base_src="$work/base-src"
+    base_cls="$work/base-cls"
+    trap 'git worktree remove --force "$base_src" >/dev/null 2>&1 || true; rm -rf "$work"' EXIT
+
+    git worktree add -f --detach "$base_src" {{ref}} >/dev/null
+    mkdir -p "$base_cls"
+    find "$base_src/src" -name '*.java' > "$work/base-sources.txt"
+    javac -cp "$repo/libs/*" -d "$base_cls" @"$work/base-sources.txt"
+
+    extra=()
+    if [ "{{gnu}}" != "--gnu" ]; then
+      extra+=(--exclude gnu/)
+    fi
+
+    python3 ./scripts/java-bytecode-equiv.py "${extra[@]}" "$base_cls" releases/custom-squid.jar
+
+# Rank Java files by count of cryptic identifiers (heuristic).
+# Matches inside comments, string literals, and char literals are ignored.
+lint-names pattern='\bvar[0-9]+\b|\b[a-z][0-9]+\b|\b(tmp|temp|str|arr|data|val|bar)\b|\b[a-z][0-9]*\s*\(':
+    #!/usr/bin/env bash
+    set -eu
+    find src -name '*.java' -print0 | while IFS= read -r -d '' f; do
+      n=$(python3 scripts/lint_names_count.py "$f" '{{pattern}}')
+      (( n > 0 )) && printf '%4d  %s\n' "$n" "$f"
+    done | sort -rn

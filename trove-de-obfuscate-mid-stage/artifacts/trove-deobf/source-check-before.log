@@ -1,0 +1,5 @@
+
+Summary: 548/808 common files match
+Mismatched: 260
+Missing: 608
+error: Recipe `source-check` failed with exit code 1

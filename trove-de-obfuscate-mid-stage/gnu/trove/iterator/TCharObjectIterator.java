@@ -1,0 +1,7 @@
+package gnu.trove.iterator;
+
+public interface TCharObjectIterator extends TAdvancingIterator {
+   char key();
+
+   Object value();
+}

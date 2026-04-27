@@ -1,0 +1,29 @@
+mkdir -p releases
+find src -name '*.java' > releases/sources.txt
+javac -cp 'libs/*' -d releases @releases/sources.txt
+src/solver/UnsafeMemoryStorage.java:10: warning: Unsafe is internal proprietary API and may be removed in a future release
+import sun.misc.Unsafe;
+               ^
+src/solver/UnsafeMemoryStorage.java:22: warning: Unsafe is internal proprietary API and may be removed in a future release
+   private static Unsafe unsafe = getUnsafe();
+                  ^
+src/solver/UnsafeMemoryStorage.java:33: warning: Unsafe is internal proprietary API and may be removed in a future release
+   private static Unsafe getUnsafe() {
+                  ^
+src/solver/UnsafeMemoryStorage.java:34: warning: Unsafe is internal proprietary API and may be removed in a future release
+      Unsafe var0;
+      ^
+src/solver/UnsafeMemoryStorage.java:37: warning: Unsafe is internal proprietary API and may be removed in a future release
+         (var2 = Unsafe.class.getDeclaredField("theUnsafe")).setAccessible(true);
+                 ^
+src/solver/UnsafeMemoryStorage.java:38: warning: Unsafe is internal proprietary API and may be removed in a future release
+         var0 = (Unsafe)var2.get((Object)null);
+                 ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+6 warnings
+cp -r src/resources releases/
+rm -f releases/custom-squid.jar
+jar cfm releases/custom-squid.jar src/META-INF/MANIFEST.MF -C releases .

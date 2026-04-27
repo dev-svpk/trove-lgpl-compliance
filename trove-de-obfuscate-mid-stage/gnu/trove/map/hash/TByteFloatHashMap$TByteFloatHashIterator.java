@@ -1,0 +1,105 @@
+package gnu.trove.map.hash;
+
+import gnu.trove.iterator.TIterator;
+import gnu.trove.impl.hash.THashPrimitiveIterator;
+import gnu.trove.iterator.TByteFloatIterator;
+import gnu.trove.iterator.TCharIterator;
+import java.util.ConcurrentModificationException;
+
+class TByteFloatHashMap$TByteFloatHashIterator extends THashPrimitiveIterator implements TByteFloatIterator {
+   // $FF: synthetic field
+   final TByteFloatHashMap this$0;
+
+   TByteFloatHashMap$TByteFloatHashIterator(TByteFloatHashMap var1, TByteFloatHashMap var2) {
+      super(var2);
+      this.this$0 = var1;
+   }
+
+   public void advance() {
+      this.moveToNextIndex();
+   }
+
+   public byte key() {
+      return this.this$0._set[this._index];
+   }
+
+   public float value() {
+      return this.this$0._values[this._index];
+   }
+
+   public float setValue(float var1) {
+      float var2 = this.value();
+      this.this$0._values[this._index] = var1;
+      return var2;
+   }
+
+   public void remove() {
+      if (this._expectedSize != this._hash.size()) {
+         throw new ConcurrentModificationException();
+      } else {
+         try {
+            this._hash.tempDisableAutoCompaction();
+            this.this$0.removeAt(this._index);
+         } finally {
+            this._hash.reenableAutoCompaction(false);
+         }
+
+         --this._expectedSize;
+      }
+   }
+
+    @Override
+    public boolean contains(char var1) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public TCharIterator iterator() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public boolean contains(int var1) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public boolean contains(long var1) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public byte nextByte() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public int nextInt() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public char nextChar() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public long nextLong() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public float nextFloat() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public short nextShort() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public double nextDouble() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+}

@@ -1,0 +1,1702 @@
+[!] Only in /tmp/tmp.SCoEdUIplL/base-src/src: 301 file(s)
+    - gnu/trove/a.java
+    - gnu/trove/b.java
+    - gnu/trove/b_ref/a.java
+    - gnu/trove/b_ref/b.java
+    - gnu/trove/b_ref/c.java
+    - gnu/trove/ba/A_ref.java
+    - gnu/trove/ba/B_ref.java
+    - gnu/trove/ba/C_ref.java
+    - gnu/trove/ba/D_ref.java
+    - gnu/trove/ba/E_ref.java
+    - gnu/trove/ba/F_ref.java
+    - gnu/trove/ba/G_ref.java
+    - gnu/trove/ba/H_ref.java
+    - gnu/trove/ba/I_ref.java
+    - gnu/trove/ba/J_ref.java
+    - gnu/trove/ba/K_ref.java
+    - gnu/trove/ba/L_ref.java
+    - gnu/trove/ba/M_ref.java
+    - gnu/trove/ba/N_ref.java
+    - gnu/trove/ba/O_ref.java
+    - gnu/trove/ba/P_ref.java
+    - gnu/trove/ba/Q_ref.java
+    - gnu/trove/ba/R_ref.java
+    - gnu/trove/ba/S_ref.java
+    - gnu/trove/ba/T_ref.java
+    - gnu/trove/ba/U_ref.java
+    - gnu/trove/ba/V_ref.java
+    - gnu/trove/ba/W_ref.java
+    - gnu/trove/ba/X_ref.java
+    - gnu/trove/ba/Y_ref.java
+    - gnu/trove/ba/Z_ref.java
+    - gnu/trove/ba/a.java
+    - gnu/trove/ba/aa.java
+    - gnu/trove/ba/ab.java
+    - gnu/trove/ba/ac.java
+    - gnu/trove/ba/ad.java
+    - gnu/trove/ba/ae.java
+    - gnu/trove/ba/af.java
+    - gnu/trove/ba/ag.java
+    - gnu/trove/ba/ah.java
+    - gnu/trove/ba/ai.java
+    - gnu/trove/ba/aj.java
+    - gnu/trove/ba/b.java
+    - gnu/trove/ba/c.java
+    - gnu/trove/ba/d.java
+    - gnu/trove/ba/e.java
+    - gnu/trove/ba/f.java
+    - gnu/trove/ba/g.java
+    - gnu/trove/ba/h.java
+    - gnu/trove/ba/i.java
+    - gnu/trove/ba/j.java
+    - gnu/trove/ba/k.java
+    - gnu/trove/ba/l.java
+    - gnu/trove/ba/m.java
+    - gnu/trove/ba/n.java
+    - gnu/trove/ba/o.java
+    - gnu/trove/ba/p.java
+    - gnu/trove/ba/q.java
+    - gnu/trove/ba/r.java
+    - gnu/trove/ba/s.java
+    - gnu/trove/ba/t.java
+    - gnu/trove/ba/u.java
+    - gnu/trove/ba/v.java
+    - gnu/trove/ba/w.java
+    - gnu/trove/ba/x.java
+    - gnu/trove/ba/y.java
+    - gnu/trove/ba/z.java
+    - gnu/trove/c.java
+    - gnu/trove/c_ref/A_ref.java
+    - gnu/trove/c_ref/B_ref.java
+    - gnu/trove/c_ref/C_ref.java
+    - gnu/trove/c_ref/D_ref.java
+    - gnu/trove/c_ref/E_ref.java
+    - gnu/trove/c_ref/F_ref.java
+    - gnu/trove/c_ref/G_ref.java
+    - gnu/trove/c_ref/H_ref.java
+    - gnu/trove/c_ref/I_ref.java
+    - gnu/trove/c_ref/J_ref.java
+    - gnu/trove/c_ref/K_ref.java
+    - gnu/trove/c_ref/L_ref.java
+    - gnu/trove/c_ref/M_ref.java
+    - gnu/trove/c_ref/N_ref.java
+    - gnu/trove/c_ref/O_ref.java
+    - gnu/trove/c_ref/P_ref.java
+    - gnu/trove/c_ref/Q_ref.java
+    - gnu/trove/c_ref/R_ref.java
+    - gnu/trove/c_ref/S_ref.java
+    - gnu/trove/c_ref/T_ref.java
+    - gnu/trove/c_ref/U_ref.java
+    - gnu/trove/c_ref/V_ref.java
+    - gnu/trove/c_ref/W_ref.java
+    - gnu/trove/c_ref/X_ref.java
+    - gnu/trove/c_ref/Y_ref.java
+    - gnu/trove/c_ref/Z_ref.java
+    - gnu/trove/c_ref/a.java
+    - gnu/trove/c_ref/aa.java
+    - gnu/trove/c_ref/ab.java
+    - gnu/trove/c_ref/ac.java
+    - gnu/trove/c_ref/ad.java
+    - gnu/trove/c_ref/ae.java
+    - gnu/trove/c_ref/af.java
+    - gnu/trove/c_ref/ag.java
+    - gnu/trove/c_ref/ah.java
+    - gnu/trove/c_ref/ai.java
+    - gnu/trove/c_ref/aj.java
+    - gnu/trove/c_ref/ak.java
+    - gnu/trove/c_ref/al.java
+    - gnu/trove/c_ref/am.java
+    - gnu/trove/c_ref/an.java
+    - gnu/trove/c_ref/ao.java
+    - gnu/trove/c_ref/ap.java
+    - gnu/trove/c_ref/aq.java
+    - gnu/trove/c_ref/ar.java
+    - gnu/trove/c_ref/as.java
+    - gnu/trove/c_ref/at.java
+    - gnu/trove/c_ref/au.java
+    - gnu/trove/c_ref/b.java
+    - gnu/trove/c_ref/c.java
+    - gnu/trove/c_ref/d.java
+    - gnu/trove/c_ref/e.java
+    - gnu/trove/c_ref/f.java
+    - gnu/trove/c_ref/g.java
+    - gnu/trove/c_ref/h.java
+    - gnu/trove/c_ref/i.java
+    - gnu/trove/c_ref/j.java
+    - gnu/trove/c_ref/k.java
+    - gnu/trove/c_ref/l.java
+    - gnu/trove/c_ref/m.java
+    - gnu/trove/c_ref/n.java
+    - gnu/trove/c_ref/o.java
+    - gnu/trove/c_ref/p.java
+    - gnu/trove/c_ref/q.java
+    - gnu/trove/c_ref/r.java
+    - gnu/trove/c_ref/s.java
+    - gnu/trove/c_ref/t.java
+    - gnu/trove/c_ref/u.java
+    - gnu/trove/c_ref/v.java
+    - gnu/trove/c_ref/w.java
+    - gnu/trove/c_ref/x.java
+    - gnu/trove/c_ref/y.java
+    - gnu/trove/c_ref/z.java
+    - gnu/trove/ca/a.java
+    - gnu/trove/d.java
+    - gnu/trove/da/a.java
+    - gnu/trove/da/b.java
+    - gnu/trove/da/c.java
+    - gnu/trove/da/d.java
+    - gnu/trove/da/e.java
+    - gnu/trove/da/f.java
+    - gnu/trove/e.java
+    - gnu/trove/e_ref/A_ref.java
+    - gnu/trove/e_ref/B_ref.java
+    - gnu/trove/e_ref/C_ref.java
+    - gnu/trove/e_ref/D_ref.java
+    - gnu/trove/e_ref/E_ref.java
+    - gnu/trove/e_ref/F_ref.java
+    - gnu/trove/e_ref/G_ref.java
+    - gnu/trove/e_ref/H_ref.java
+    - gnu/trove/e_ref/I_ref.java
+    - gnu/trove/e_ref/J_ref.java
+    - gnu/trove/e_ref/K_ref.java
+    - gnu/trove/e_ref/L_ref.java
+    - gnu/trove/e_ref/M_ref.java
+    - gnu/trove/e_ref/N_ref.java
+    - gnu/trove/e_ref/O_ref.java
+    - gnu/trove/e_ref/P_ref.java
+    - gnu/trove/e_ref/Q_ref.java
+    - gnu/trove/e_ref/R_ref.java
+    - gnu/trove/e_ref/S_ref.java
+    - gnu/trove/e_ref/T_ref.java
+    - gnu/trove/e_ref/U_ref.java
+    - gnu/trove/e_ref/V_ref.java
+    - gnu/trove/e_ref/W_ref.java
+    - gnu/trove/e_ref/X_ref.java
+    - gnu/trove/e_ref/Y_ref.java
+    - gnu/trove/e_ref/Z_ref.java
+    - gnu/trove/e_ref/a.java
+    - gnu/trove/e_ref/aa.java
+    - gnu/trove/e_ref/ab.java
+    - gnu/trove/e_ref/ac.java
+    - gnu/trove/e_ref/ad.java
+    - gnu/trove/e_ref/ae.java
+    - gnu/trove/e_ref/af.java
+    - gnu/trove/e_ref/ag.java
+    - gnu/trove/e_ref/ah.java
+    - gnu/trove/e_ref/ai.java
+    - gnu/trove/e_ref/aj.java
+    - gnu/trove/e_ref/ak.java
+    - gnu/trove/e_ref/al.java
+    - gnu/trove/e_ref/am.java
+    - gnu/trove/e_ref/an.java
+    - gnu/trove/e_ref/ao.java
+    - gnu/trove/e_ref/ap.java
+    - gnu/trove/e_ref/aq.java
+    - gnu/trove/e_ref/ar.java
+    - gnu/trove/e_ref/as.java
+    - gnu/trove/e_ref/b.java
+    - gnu/trove/e_ref/c.java
+    - gnu/trove/e_ref/d.java
+    - gnu/trove/e_ref/e.java
+    - gnu/trove/e_ref/f.java
+    - gnu/trove/e_ref/g.java
+    - gnu/trove/e_ref/h.java
+    - gnu/trove/e_ref/i.java
+    - gnu/trove/e_ref/j.java
+    - gnu/trove/e_ref/k.java
+    - gnu/trove/e_ref/l.java
+    - gnu/trove/e_ref/m.java
+    - gnu/trove/e_ref/n.java
+    - gnu/trove/e_ref/o.java
+    - gnu/trove/e_ref/p.java
+    - gnu/trove/e_ref/q.java
+    - gnu/trove/e_ref/r.java
+    - gnu/trove/e_ref/s.java
+    - gnu/trove/e_ref/t.java
+    - gnu/trove/e_ref/u.java
+    - gnu/trove/e_ref/v.java
+    - gnu/trove/e_ref/w.java
+    - gnu/trove/e_ref/x.java
+    - gnu/trove/e_ref/y.java
+    - gnu/trove/e_ref/z.java
+    - gnu/trove/f.java
+    - gnu/trove/f_ref/a.java
+    - gnu/trove/f_ref/b.java
+    - gnu/trove/f_ref/c.java
+    - gnu/trove/f_ref/d.java
+    - gnu/trove/f_ref/e.java
+    - gnu/trove/f_ref/f.java
+    - gnu/trove/f_ref/g.java
+    - gnu/trove/fa/a.java
+    - gnu/trove/fa/b.java
+    - gnu/trove/fa/c.java
+    - gnu/trove/fa/d.java
+    - gnu/trove/fa/e.java
+    - gnu/trove/fa/f.java
+    - gnu/trove/g.java
+    - gnu/trove/g_ref/a.java
+    - gnu/trove/map/A_ref.java
+    - gnu/trove/map/B_ref.java
+    - gnu/trove/map/C_ref.java
+    - gnu/trove/map/D_ref.java
+    - gnu/trove/map/E_ref.java
+    - gnu/trove/map/F_ref.java
+    - gnu/trove/map/G_ref.java
+    - gnu/trove/map/H_ref.java
+    - gnu/trove/map/I_ref.java
+    - gnu/trove/map/J_ref.java
+    - gnu/trove/map/K_ref.java
+    - gnu/trove/map/L_ref.java
+    - gnu/trove/map/M_ref.java
+    - gnu/trove/map/N_ref.java
+    - gnu/trove/map/O_ref.java
+    - gnu/trove/map/P_ref.java
+    - gnu/trove/map/Q_ref.java
+    - gnu/trove/map/R_ref.java
+    - gnu/trove/map/S_ref.java
+    - gnu/trove/map/T_ref.java
+    - gnu/trove/map/U_ref.java
+    - gnu/trove/map/V_ref.java
+    - gnu/trove/map/W_ref.java
+    - gnu/trove/map/X_ref.java
+    - gnu/trove/map/Y_ref.java
+    - gnu/trove/map/Z_ref.java
+    - gnu/trove/map/a.java
+    - gnu/trove/map/aa.java
+    - gnu/trove/map/ab.java
+    - gnu/trove/map/ac.java
+    - gnu/trove/map/ad.java
+    - gnu/trove/map/ae.java
+    - gnu/trove/map/af.java
+    - gnu/trove/map/ag.java
+    - gnu/trove/map/ah.java
+    - gnu/trove/map/ai.java
+    - gnu/trove/map/aj.java
+    - gnu/trove/map/ak.java
+    - gnu/trove/map/al.java
+    - gnu/trove/map/b.java
+    - gnu/trove/map/c.java
+    - gnu/trove/map/d.java
+    - gnu/trove/map/e.java
+    - gnu/trove/map/f.java
+    - gnu/trove/map/g.java
+    - gnu/trove/map/h.java
+    - gnu/trove/map/i.java
+    - gnu/trove/map/j.java
+    - gnu/trove/map/k.java
+    - gnu/trove/map/l.java
+    - gnu/trove/map/m.java
+    - gnu/trove/map/n.java
+    - gnu/trove/map/o.java
+    - gnu/trove/map/p.java
+    - gnu/trove/map/q.java
+    - gnu/trove/map/r.java
+    - gnu/trove/map/s.java
+    - gnu/trove/map/t.java
+    - gnu/trove/map/u.java
+    - gnu/trove/map/v.java
+    - gnu/trove/map/w.java
+    - gnu/trove/map/x.java
+    - gnu/trove/map/y.java
+    - gnu/trove/map/z.java
+[!] Only in src: 307 file(s)
+    - gnu/trove/TByteCollection.java
+    - gnu/trove/TCharCollection.java
+    - gnu/trove/TDoubleCollection.java
+    - gnu/trove/TFloatCollection.java
+    - gnu/trove/TIntCollection.java
+    - gnu/trove/TLongCollection.java
+    - gnu/trove/TShortCollection.java
+    - gnu/trove/impl/Constants.java
+    - gnu/trove/impl/HashFunctions.java
+    - gnu/trove/impl/PrimeFinder.java
+    - gnu/trove/impl/hash/TByteByteHash.java
+    - gnu/trove/impl/hash/TByteCharHash.java
+    - gnu/trove/impl/hash/TByteDoubleHash.java
+    - gnu/trove/impl/hash/TByteFloatHash.java
+    - gnu/trove/impl/hash/TByteHash.java
+    - gnu/trove/impl/hash/TByteIntHash.java
+    - gnu/trove/impl/hash/TByteLongHash.java
+    - gnu/trove/impl/hash/TByteShortHash.java
+    - gnu/trove/impl/hash/TCharByteHash.java
+    - gnu/trove/impl/hash/TCharCharHash.java
+    - gnu/trove/impl/hash/TCharDoubleHash.java
+    - gnu/trove/impl/hash/TCharFloatHash.java
+    - gnu/trove/impl/hash/TCharHash.java
+    - gnu/trove/impl/hash/TCharIntHash.java
+    - gnu/trove/impl/hash/TCharLongHash.java
+    - gnu/trove/impl/hash/TCharShortHash.java
+    - gnu/trove/impl/hash/TCustomObjectHash.java
+    - gnu/trove/impl/hash/TDoubleByteHash.java
+    - gnu/trove/impl/hash/TDoubleCharHash.java
+    - gnu/trove/impl/hash/TDoubleDoubleHash.java
+    - gnu/trove/impl/hash/TDoubleFloatHash.java
+    - gnu/trove/impl/hash/TDoubleHash.java
+    - gnu/trove/impl/hash/TDoubleIntHash.java
+    - gnu/trove/impl/hash/TDoubleLongHash.java
+    - gnu/trove/impl/hash/TDoubleShortHash.java
+    - gnu/trove/impl/hash/TFloatByteHash.java
+    - gnu/trove/impl/hash/TFloatCharHash.java
+    - gnu/trove/impl/hash/TFloatDoubleHash.java
+    - gnu/trove/impl/hash/TFloatFloatHash.java
+    - gnu/trove/impl/hash/TFloatHash.java
+    - gnu/trove/impl/hash/TFloatIntHash.java
+    - gnu/trove/impl/hash/TFloatLongHash.java
+    - gnu/trove/impl/hash/TFloatShortHash.java
+    - gnu/trove/impl/hash/THash.java
+    - gnu/trove/impl/hash/THashIterator.java
+    - gnu/trove/impl/hash/THashPrimitiveIterator.java
+    - gnu/trove/impl/hash/TIntByteHash.java
+    - gnu/trove/impl/hash/TIntCharHash.java
+    - gnu/trove/impl/hash/TIntDoubleHash.java
+    - gnu/trove/impl/hash/TIntFloatHash.java
+    - gnu/trove/impl/hash/TIntHash.java
+    - gnu/trove/impl/hash/TIntIntHash.java
+    - gnu/trove/impl/hash/TIntLongHash.java
+    - gnu/trove/impl/hash/TIntShortHash.java
+    - gnu/trove/impl/hash/TLongByteHash.java
+    - gnu/trove/impl/hash/TLongCharHash.java
+    - gnu/trove/impl/hash/TLongDoubleHash.java
+    - gnu/trove/impl/hash/TLongFloatHash.java
+    - gnu/trove/impl/hash/TLongHash.java
+    - gnu/trove/impl/hash/TLongIntHash.java
+    - gnu/trove/impl/hash/TLongLongHash.java
+    - gnu/trove/impl/hash/TLongShortHash.java
+    - gnu/trove/impl/hash/TObjectHash.java
+    - gnu/trove/impl/hash/TPrimitiveHash.java
+    - gnu/trove/impl/hash/TShortByteHash.java
+    - gnu/trove/impl/hash/TShortCharHash.java
+    - gnu/trove/impl/hash/TShortDoubleHash.java
+    - gnu/trove/impl/hash/TShortFloatHash.java
+    - gnu/trove/impl/hash/TShortHash.java
+    - gnu/trove/impl/hash/TShortIntHash.java
+    - gnu/trove/impl/hash/TShortLongHash.java
+    - gnu/trove/impl/hash/TShortShortHash.java
+    - gnu/trove/iterator/TAdvancingIterator.java
+    - gnu/trove/iterator/TByteByteIterator.java
+    - gnu/trove/iterator/TByteCharIterator.java
+    - gnu/trove/iterator/TByteDoubleIterator.java
+    - gnu/trove/iterator/TByteFloatIterator.java
+    - gnu/trove/iterator/TByteIntIterator.java
+    - gnu/trove/iterator/TByteIterator.java
+    - gnu/trove/iterator/TByteLongIterator.java
+    - gnu/trove/iterator/TByteObjectIterator.java
+    - gnu/trove/iterator/TByteShortIterator.java
+    - gnu/trove/iterator/TCharByteIterator.java
+    - gnu/trove/iterator/TCharCharIterator.java
+    - gnu/trove/iterator/TCharDoubleIterator.java
+    - gnu/trove/iterator/TCharFloatIterator.java
+    - gnu/trove/iterator/TCharIntIterator.java
+    - gnu/trove/iterator/TCharIterator.java
+    - gnu/trove/iterator/TCharLongIterator.java
+    - gnu/trove/iterator/TCharObjectIterator.java
+    - gnu/trove/iterator/TCharShortIterator.java
+    - gnu/trove/iterator/TDoubleByteIterator.java
+    - gnu/trove/iterator/TDoubleCharIterator.java
+    - gnu/trove/iterator/TDoubleDoubleIterator.java
+    - gnu/trove/iterator/TDoubleFloatIterator.java
+    - gnu/trove/iterator/TDoubleIntIterator.java
+    - gnu/trove/iterator/TDoubleIterator.java
+    - gnu/trove/iterator/TDoubleLongIterator.java
+    - gnu/trove/iterator/TDoubleObjectIterator.java
+    - gnu/trove/iterator/TDoubleShortIterator.java
+    - gnu/trove/iterator/TFloatByteIterator.java
+    - gnu/trove/iterator/TFloatCharIterator.java
+    - gnu/trove/iterator/TFloatDoubleIterator.java
+    - gnu/trove/iterator/TFloatFloatIterator.java
+    - gnu/trove/iterator/TFloatIntIterator.java
+    - gnu/trove/iterator/TFloatIterator.java
+    - gnu/trove/iterator/TFloatLongIterator.java
+    - gnu/trove/iterator/TFloatObjectIterator.java
+    - gnu/trove/iterator/TFloatShortIterator.java
+    - gnu/trove/iterator/TIntByteIterator.java
+    - gnu/trove/iterator/TIntCharIterator.java
+    - gnu/trove/iterator/TIntDoubleIterator.java
+    - gnu/trove/iterator/TIntFloatIterator.java
+    - gnu/trove/iterator/TIntIntIterator.java
+    - gnu/trove/iterator/TIntIterator.java
+    - gnu/trove/iterator/TIntLongIterator.java
+    - gnu/trove/iterator/TIntObjectIterator.java
+    - gnu/trove/iterator/TIntShortIterator.java
+    - gnu/trove/iterator/TIterator.java
+    - gnu/trove/iterator/TLongByteIterator.java
+    - gnu/trove/iterator/TLongCharIterator.java
+    - gnu/trove/iterator/TLongDoubleIterator.java
+    - gnu/trove/iterator/TLongFloatIterator.java
+    - gnu/trove/iterator/TLongIntIterator.java
+    - gnu/trove/iterator/TLongIterator.java
+    - gnu/trove/iterator/TLongLongIterator.java
+    - gnu/trove/iterator/TLongObjectIterator.java
+    - gnu/trove/iterator/TLongShortIterator.java
+    - gnu/trove/iterator/TObjectByteIterator.java
+    - gnu/trove/iterator/TObjectCharIterator.java
+    - gnu/trove/iterator/TObjectDoubleIterator.java
+    - gnu/trove/iterator/TObjectFloatIterator.java
+    - gnu/trove/iterator/TObjectIntIterator.java
+    - gnu/trove/iterator/TObjectLongIterator.java
+    - gnu/trove/iterator/TObjectShortIterator.java
+    - gnu/trove/iterator/TShortByteIterator.java
+    - gnu/trove/iterator/TShortCharIterator.java
+    - gnu/trove/iterator/TShortDoubleIterator.java
+    - gnu/trove/iterator/TShortFloatIterator.java
+    - gnu/trove/iterator/TShortIntIterator.java
+    - gnu/trove/iterator/TShortIterator.java
+    - gnu/trove/iterator/TShortLongIterator.java
+    - gnu/trove/iterator/TShortObjectIterator.java
+    - gnu/trove/iterator/TShortShortIterator.java
+    - gnu/trove/iterator/al.java
+    - gnu/trove/iterator/hash/TObjectHashIterator.java
+    - gnu/trove/list/array/a.java
+    - gnu/trove/list/array/b.java
+    - gnu/trove/list/array/c.java
+    - gnu/trove/list/array/d.java
+    - gnu/trove/list/array/e.java
+    - gnu/trove/list/array/f.java
+    - gnu/trove/map/TByteByteMap.java
+    - gnu/trove/map/TByteCharMap.java
+    - gnu/trove/map/TByteDoubleMap.java
+    - gnu/trove/map/TByteFloatMap.java
+    - gnu/trove/map/TByteIntMap.java
+    - gnu/trove/map/TByteLongMap.java
+    - gnu/trove/map/TByteObjectMap.java
+    - gnu/trove/map/TByteShortMap.java
+    - gnu/trove/map/TCharByteMap.java
+    - gnu/trove/map/TCharCharMap.java
+    - gnu/trove/map/TCharDoubleMap.java
+    - gnu/trove/map/TCharFloatMap.java
+    - gnu/trove/map/TCharIntMap.java
+    - gnu/trove/map/TCharLongMap.java
+    - gnu/trove/map/TCharObjectMap.java
+    - gnu/trove/map/TCharShortMap.java
+    - gnu/trove/map/TDoubleByteMap.java
+    - gnu/trove/map/TDoubleCharMap.java
+    - gnu/trove/map/TDoubleDoubleMap.java
+    - gnu/trove/map/TDoubleFloatMap.java
+    - gnu/trove/map/TDoubleIntMap.java
+    - gnu/trove/map/TDoubleLongMap.java
+    - gnu/trove/map/TDoubleObjectMap.java
+    - gnu/trove/map/TDoubleShortMap.java
+    - gnu/trove/map/TFloatByteMap.java
+    - gnu/trove/map/TFloatCharMap.java
+    - gnu/trove/map/TFloatDoubleMap.java
+    - gnu/trove/map/TFloatFloatMap.java
+    - gnu/trove/map/TFloatIntMap.java
+    - gnu/trove/map/TFloatLongMap.java
+    - gnu/trove/map/TFloatObjectMap.java
+    - gnu/trove/map/TFloatShortMap.java
+    - gnu/trove/map/TIntByteMap.java
+    - gnu/trove/map/TIntCharMap.java
+    - gnu/trove/map/TIntDoubleMap.java
+    - gnu/trove/map/TIntFloatMap.java
+    - gnu/trove/map/TIntIntMap.java
+    - gnu/trove/map/TIntLongMap.java
+    - gnu/trove/map/TIntObjectMap.java
+    - gnu/trove/map/TIntShortMap.java
+    - gnu/trove/map/TLongByteMap.java
+    - gnu/trove/map/TLongCharMap.java
+    - gnu/trove/map/TLongDoubleMap.java
+    - gnu/trove/map/TLongFloatMap.java
+    - gnu/trove/map/TLongIntMap.java
+    - gnu/trove/map/TLongLongMap.java
+    - gnu/trove/map/TLongObjectMap.java
+    - gnu/trove/map/TLongShortMap.java
+    - gnu/trove/map/TMap.java
+    - gnu/trove/map/TObjectByteMap.java
+    - gnu/trove/map/TObjectCharMap.java
+    - gnu/trove/map/TObjectDoubleMap.java
+    - gnu/trove/map/TObjectFloatMap.java
+    - gnu/trove/map/TObjectIntMap.java
+    - gnu/trove/map/TObjectLongMap.java
+    - gnu/trove/map/TObjectShortMap.java
+    - gnu/trove/map/TShortByteMap.java
+    - gnu/trove/map/TShortCharMap.java
+    - gnu/trove/map/TShortDoubleMap.java
+    - gnu/trove/map/TShortFloatMap.java
+    - gnu/trove/map/TShortIntMap.java
+    - gnu/trove/map/TShortLongMap.java
+    - gnu/trove/map/TShortObjectMap.java
+    - gnu/trove/map/TShortShortMap.java
+    - gnu/trove/procedure/TByteByteProcedure.java
+    - gnu/trove/procedure/TByteCharProcedure.java
+    - gnu/trove/procedure/TByteDoubleProcedure.java
+    - gnu/trove/procedure/TByteFloatProcedure.java
+    - gnu/trove/procedure/TByteIntProcedure.java
+    - gnu/trove/procedure/TByteLongProcedure.java
+    - gnu/trove/procedure/TByteObjectProcedure.java
+    - gnu/trove/procedure/TByteProcedure.java
+    - gnu/trove/procedure/TByteShortProcedure.java
+    - gnu/trove/procedure/TCharByteProcedure.java
+    - gnu/trove/procedure/TCharCharProcedure.java
+    - gnu/trove/procedure/TCharDoubleProcedure.java
+    - gnu/trove/procedure/TCharFloatProcedure.java
+    - gnu/trove/procedure/TCharIntProcedure.java
+    - gnu/trove/procedure/TCharLongProcedure.java
+    - gnu/trove/procedure/TCharObjectProcedure.java
+    - gnu/trove/procedure/TCharProcedure.java
+    - gnu/trove/procedure/TCharShortProcedure.java
+    - gnu/trove/procedure/TDoubleByteProcedure.java
+    - gnu/trove/procedure/TDoubleCharProcedure.java
+    - gnu/trove/procedure/TDoubleDoubleProcedure.java
+    - gnu/trove/procedure/TDoubleFloatProcedure.java
+    - gnu/trove/procedure/TDoubleIntProcedure.java
+    - gnu/trove/procedure/TDoubleLongProcedure.java
+    - gnu/trove/procedure/TDoubleObjectProcedure.java
+    - gnu/trove/procedure/TDoubleProcedure.java
+    - gnu/trove/procedure/TDoubleShortProcedure.java
+    - gnu/trove/procedure/TFloatByteProcedure.java
+    - gnu/trove/procedure/TFloatCharProcedure.java
+    - gnu/trove/procedure/TFloatDoubleProcedure.java
+    - gnu/trove/procedure/TFloatFloatProcedure.java
+    - gnu/trove/procedure/TFloatIntProcedure.java
+    - gnu/trove/procedure/TFloatLongProcedure.java
+    - gnu/trove/procedure/TFloatObjectProcedure.java
+    - gnu/trove/procedure/TFloatProcedure.java
+    - gnu/trove/procedure/TFloatShortProcedure.java
+    - gnu/trove/procedure/TIntByteProcedure.java
+    - gnu/trove/procedure/TIntCharProcedure.java
+    - gnu/trove/procedure/TIntDoubleProcedure.java
+    - gnu/trove/procedure/TIntFloatProcedure.java
+    - gnu/trove/procedure/TIntIntProcedure.java
+    - gnu/trove/procedure/TIntLongProcedure.java
+    - gnu/trove/procedure/TIntObjectProcedure.java
+    - gnu/trove/procedure/TIntProcedure.java
+    - gnu/trove/procedure/TIntShortProcedure.java
+    - gnu/trove/procedure/TLongByteProcedure.java
+    - gnu/trove/procedure/TLongCharProcedure.java
+    - gnu/trove/procedure/TLongDoubleProcedure.java
+    - gnu/trove/procedure/TLongFloatProcedure.java
+    - gnu/trove/procedure/TLongIntProcedure.java
+    - gnu/trove/procedure/TLongLongProcedure.java
+    - gnu/trove/procedure/TLongObjectProcedure.java
+    - gnu/trove/procedure/TLongProcedure.java
+    - gnu/trove/procedure/TLongShortProcedure.java
+    - gnu/trove/procedure/TObjectByteProcedure.java
+    - gnu/trove/procedure/TObjectCharProcedure.java
+    - gnu/trove/procedure/TObjectDoubleProcedure.java
+    - gnu/trove/procedure/TObjectFloatProcedure.java
+    - gnu/trove/procedure/TObjectIntProcedure.java
+    - gnu/trove/procedure/TObjectLongProcedure.java
+    - gnu/trove/procedure/TObjectObjectProcedure.java
+    - gnu/trove/procedure/TObjectShortProcedure.java
+    - gnu/trove/procedure/TShortByteProcedure.java
+    - gnu/trove/procedure/TShortCharProcedure.java
+    - gnu/trove/procedure/TShortDoubleProcedure.java
+    - gnu/trove/procedure/TShortFloatProcedure.java
+    - gnu/trove/procedure/TShortIntProcedure.java
+    - gnu/trove/procedure/TShortLongProcedure.java
+    - gnu/trove/procedure/TShortObjectProcedure.java
+    - gnu/trove/procedure/TShortProcedure.java
+    - gnu/trove/procedure/TShortShortProcedure.java
+    - gnu/trove/set/TByteSet.java
+    - gnu/trove/set/TCharSet.java
+    - gnu/trove/set/TDoubleSet.java
+    - gnu/trove/set/TFloatSet.java
+    - gnu/trove/set/TIntSet.java
+    - gnu/trove/set/TLongSet.java
+    - gnu/trove/set/TShortSet.java
+    - gnu/trove/set/hash/a.java
+    - gnu/trove/set/hash/b.java
+    - gnu/trove/set/hash/c.java
+    - gnu/trove/set/hash/d.java
+    - gnu/trove/set/hash/e.java
+    - gnu/trove/set/hash/f.java
+    - gnu/trove/strategy/HashingStrategy.java
+    - gnu/wrapper/CharList.java
+    - gnu/wrapper/CharSet.java
+    - gnu/wrapper/IntList.java
+    - gnu/wrapper/IntSet.java
+    - gnu/wrapper/LongList.java
+    - gnu/wrapper/LongSet.java
+[X] gnu/trove/map/hash/TByteByteHashMap$TByteByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteByteHashMap$TByteByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteByteHashMap$TByteByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteByteHashMap.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.a;
+    head   :4: import gnu.trove.impl.hash.TByteByteHash;
+[X] gnu/trove/map/hash/TByteCharHashMap$TByteCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteCharHashMap$TByteCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteCharHashMap$TByteCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteCharHashMap.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.b;
+    head   :4: import gnu.trove.impl.hash.TByteCharHash;
+[X] gnu/trove/map/hash/TByteDoubleHashMap$TByteDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteDoubleHashMap$TByteDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteDoubleHashMap$TByteDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteDoubleHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.c;
+    head   :5: import gnu.trove.impl.hash.TByteDoubleHash;
+[X] gnu/trove/map/hash/TByteFloatHashMap$TByteFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteFloatHashMap$TByteFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteFloatHashMap$TByteFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteFloatHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.d;
+    head   :5: import gnu.trove.impl.hash.TByteFloatHash;
+[X] gnu/trove/map/hash/TByteIntHashMap$TByteIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteIntHashMap$TByteIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteIntHashMap$TByteIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteIntHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.f;
+    head   :5: import gnu.trove.impl.hash.TByteIntHash;
+[X] gnu/trove/map/hash/TByteLongHashMap$TByteLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteLongHashMap$TByteLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteLongHashMap$TByteLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteLongHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.g;
+    head   :5: import gnu.trove.impl.hash.TByteLongHash;
+[X] gnu/trove/map/hash/TByteObjectHashMap$KeyView$TByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteObjectHashMap$TByteObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteObjectHashMap$ValueView$TByteObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteObjectHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.e;
+    head   :6: import gnu.trove.impl.hash.TByteHash;
+[X] gnu/trove/map/hash/TByteShortHashMap$TByteShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteShortHashMap$TByteShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteShortHashMap$TByteShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TByteShortHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.h;
+    head   :6: import gnu.trove.impl.hash.TByteShortHash;
+[X] gnu/trove/map/hash/TCharByteHashMap$TCharByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharByteHashMap$TCharByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharByteHashMap$TCharByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharByteHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.i;
+    head   :5: import gnu.trove.impl.hash.TCharByteHash;
+[X] gnu/trove/map/hash/TCharCharHashMap$TCharCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharCharHashMap$TCharCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharCharHashMap$TCharCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharCharHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.j;
+    head   :5: import gnu.trove.impl.hash.TCharCharHash;
+[X] gnu/trove/map/hash/TCharDoubleHashMap$TCharDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharDoubleHashMap$TCharDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharDoubleHashMap$TCharDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharDoubleHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.k;
+    head   :6: import gnu.trove.impl.hash.TCharDoubleHash;
+[X] gnu/trove/map/hash/TCharFloatHashMap$TCharFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharFloatHashMap$TCharFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharFloatHashMap$TCharFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharFloatHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.l;
+    head   :6: import gnu.trove.impl.hash.TCharFloatHash;
+[X] gnu/trove/map/hash/TCharIntHashMap$TCharIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharIntHashMap$TCharIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharIntHashMap$TCharIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharIntHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.n;
+    head   :6: import gnu.trove.impl.hash.TCharIntHash;
+[X] gnu/trove/map/hash/TCharLongHashMap$TCharLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharLongHashMap$TCharLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharLongHashMap$TCharLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharLongHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.o;
+    head   :6: import gnu.trove.impl.hash.TCharLongHash;
+[X] gnu/trove/map/hash/TCharObjectHashMap$KeyView$TCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharObjectHashMap$TCharObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharObjectHashMap$ValueView$TCharObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharObjectHashMap.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ba.m;
+    head   :5: import gnu.trove.impl.hash.TCharHash;
+[X] gnu/trove/map/hash/TCharShortHashMap$TCharShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharShortHashMap$TCharShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharShortHashMap$TCharShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TCharShortHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.p;
+    head   :6: import gnu.trove.impl.hash.TCharShortHash;
+[X] gnu/trove/map/hash/TCustomHashMap$EntryView$EntryIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TCustomHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TCustomHashMap$ValueView$1.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.aa;
+    head   :4: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TCustomHashMap.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.q;
+    head   :4: import gnu.trove.impl.hash.TCustomObjectHash;
+[X] gnu/trove/map/hash/TDoubleByteHashMap$TDoubleByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleByteHashMap$TDoubleByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleByteHashMap$TDoubleByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleByteHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.r;
+    head   :6: import gnu.trove.impl.hash.TDoubleByteHash;
+[X] gnu/trove/map/hash/TDoubleCharHashMap$TDoubleCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleCharHashMap$TDoubleCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleCharHashMap$TDoubleCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleCharHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.s;
+    head   :6: import gnu.trove.impl.hash.TDoubleCharHash;
+[X] gnu/trove/map/hash/TDoubleDoubleHashMap$TDoubleDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleDoubleHashMap$TDoubleDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleDoubleHashMap$TDoubleDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleDoubleHashMap.java
+    different token count: 9 vs 11
+    master :6: import gnu.trove.ba.t;
+    head   :6: import gnu.trove.impl.hash.TDoubleDoubleHash;
+[X] gnu/trove/map/hash/TDoubleFloatHashMap$TDoubleFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleFloatHashMap$TDoubleFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleFloatHashMap$TDoubleFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleFloatHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.u;
+    head   :10: import gnu.trove.impl.hash.TDoubleFloatHash;
+[X] gnu/trove/map/hash/TDoubleIntHashMap$TDoubleIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleIntHashMap$TDoubleIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleIntHashMap$TDoubleIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleIntHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.w;
+    head   :10: import gnu.trove.impl.hash.TDoubleIntHash;
+[X] gnu/trove/map/hash/TDoubleLongHashMap$TDoubleLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleLongHashMap$TDoubleLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleLongHashMap$TDoubleLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleLongHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.x;
+    head   :10: import gnu.trove.impl.hash.TDoubleLongHash;
+[X] gnu/trove/map/hash/TDoubleObjectHashMap$KeyView$TDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleObjectHashMap$TDoubleObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleObjectHashMap$ValueView$TDoubleObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleObjectHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.v;
+    head   :9: import gnu.trove.impl.hash.TDoubleHash;
+[X] gnu/trove/map/hash/TDoubleShortHashMap$TDoubleShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleShortHashMap$TDoubleShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleShortHashMap$TDoubleShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TDoubleShortHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.y;
+    head   :10: import gnu.trove.impl.hash.TDoubleShortHash;
+[X] gnu/trove/map/hash/TFloatByteHashMap$TFloatByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatByteHashMap$TFloatByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatByteHashMap$TFloatByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatByteHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.z;
+    head   :9: import gnu.trove.impl.hash.TFloatByteHash;
+[X] gnu/trove/map/hash/TFloatCharHashMap$TFloatCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatCharHashMap$TFloatCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatCharHashMap$TFloatCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatCharHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.A_ref;
+    head   :9: import gnu.trove.impl.hash.TFloatCharHash;
+[X] gnu/trove/map/hash/TFloatDoubleHashMap$TFloatDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatDoubleHashMap$TFloatDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatDoubleHashMap$TFloatDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatDoubleHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.B_ref;
+    head   :10: import gnu.trove.impl.hash.TFloatDoubleHash;
+[X] gnu/trove/map/hash/TFloatFloatHashMap$TFloatFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatFloatHashMap$TFloatFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatFloatHashMap$TFloatFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatFloatHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.C_ref;
+    head   :9: import gnu.trove.impl.hash.TFloatFloatHash;
+[X] gnu/trove/map/hash/TFloatIntHashMap$TFloatIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatIntHashMap$TFloatIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatIntHashMap$TFloatIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatIntHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.E_ref;
+    head   :10: import gnu.trove.impl.hash.TFloatIntHash;
+[X] gnu/trove/map/hash/TFloatLongHashMap$TFloatLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatLongHashMap$TFloatLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatLongHashMap$TFloatLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatLongHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.F_ref;
+    head   :10: import gnu.trove.impl.hash.TFloatLongHash;
+[X] gnu/trove/map/hash/TFloatObjectHashMap$KeyView$TFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.D_ref;
+    head   :4: import gnu.trove.impl.hash.TFloatHash;
+[X] gnu/trove/map/hash/TFloatObjectHashMap$TFloatObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatObjectHashMap$ValueView$TFloatObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatObjectHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.D_ref;
+    head   :9: import gnu.trove.impl.hash.TFloatHash;
+[X] gnu/trove/map/hash/TFloatShortHashMap$TFloatShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatShortHashMap$TFloatShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatShortHashMap$TFloatShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TFloatShortHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.G_ref;
+    head   :10: import gnu.trove.impl.hash.TFloatShortHash;
+[X] gnu/trove/map/hash/THashMap$EntryView$EntryIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/THashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/THashMap$ValueView$1.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.aa;
+    head   :4: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/THashMap.java
+    different token count: 9 vs 11
+    master :8: import gnu.trove.ba.aa;
+    head   :8: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TIntByteHashMap$TIntByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntByteHashMap$TIntByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntByteHashMap$TIntByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntByteHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.K_ref;
+    head   :9: import gnu.trove.impl.hash.TIntByteHash;
+[X] gnu/trove/map/hash/TIntCharHashMap$TIntCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntCharHashMap$TIntCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntCharHashMap$TIntCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntCharHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.L_ref;
+    head   :9: import gnu.trove.impl.hash.TIntCharHash;
+[X] gnu/trove/map/hash/TIntDoubleHashMap$TIntDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntDoubleHashMap$TIntDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntDoubleHashMap$TIntDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntDoubleHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.M_ref;
+    head   :10: import gnu.trove.impl.hash.TIntDoubleHash;
+[X] gnu/trove/map/hash/TIntFloatHashMap$TIntFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntFloatHashMap$TIntFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntFloatHashMap$TIntFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntFloatHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.N_ref;
+    head   :10: import gnu.trove.impl.hash.TIntFloatHash;
+[X] gnu/trove/map/hash/TIntIntHashMap$TIntIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntIntHashMap$TIntIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntIntHashMap$TIntIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntIntHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.P_ref;
+    head   :9: import gnu.trove.impl.hash.TIntIntHash;
+[X] gnu/trove/map/hash/TIntLongHashMap$TIntLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntLongHashMap$TIntLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntLongHashMap$TIntLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntLongHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.Q_ref;
+    head   :10: import gnu.trove.impl.hash.TIntLongHash;
+[X] gnu/trove/map/hash/TIntObjectHashMap$KeyView$TIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntObjectHashMap$TIntObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntObjectHashMap$ValueView$TIntObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntObjectHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.O_ref;
+    head   :9: import gnu.trove.impl.hash.TIntHash;
+[X] gnu/trove/map/hash/TIntShortHashMap$TIntShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntShortHashMap$TIntShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntShortHashMap$TIntShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TIntShortHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.R_ref;
+    head   :10: import gnu.trove.impl.hash.TIntShortHash;
+[X] gnu/trove/map/hash/TLongByteHashMap$TLongByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongByteHashMap$TLongByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongByteHashMap$TLongByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongByteHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.S_ref;
+    head   :9: import gnu.trove.impl.hash.TLongByteHash;
+[X] gnu/trove/map/hash/TLongCharHashMap$TLongCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongCharHashMap$TLongCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongCharHashMap$TLongCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongCharHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.T_ref;
+    head   :9: import gnu.trove.impl.hash.TLongCharHash;
+[X] gnu/trove/map/hash/TLongDoubleHashMap$TLongDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongDoubleHashMap$TLongDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongDoubleHashMap$TLongDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongDoubleHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.U_ref;
+    head   :10: import gnu.trove.impl.hash.TLongDoubleHash;
+[X] gnu/trove/map/hash/TLongFloatHashMap$TLongFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongFloatHashMap$TLongFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongFloatHashMap$TLongFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongFloatHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.V_ref;
+    head   :10: import gnu.trove.impl.hash.TLongFloatHash;
+[X] gnu/trove/map/hash/TLongIntHashMap$TLongIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongIntHashMap$TLongIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongIntHashMap$TLongIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongIntHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.X_ref;
+    head   :10: import gnu.trove.impl.hash.TLongIntHash;
+[X] gnu/trove/map/hash/TLongLongHashMap$TLongLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongLongHashMap$TLongLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongLongHashMap$TLongLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongLongHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.Y_ref;
+    head   :9: import gnu.trove.impl.hash.TLongLongHash;
+[X] gnu/trove/map/hash/TLongObjectHashMap$KeyView$TLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongObjectHashMap$TLongObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongObjectHashMap$ValueView$TLongObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongObjectHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.W_ref;
+    head   :9: import gnu.trove.impl.hash.TLongHash;
+[X] gnu/trove/map/hash/TLongShortHashMap$TLongShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongShortHashMap$TLongShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongShortHashMap$TLongShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TLongShortHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.Z_ref;
+    head   :10: import gnu.trove.impl.hash.TLongShortHash;
+[X] gnu/trove/map/hash/TObjectByteHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectByteHashMap$TByteValueCollection$TObjectByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.H_ref;
+    head   :4: import gnu.trove.impl.hash.THash;
+[X] gnu/trove/map/hash/TObjectByteHashMap$TObjectByteHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectByteHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.aa;
+    head   :9: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectCharHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectCharHashMap$TCharValueCollection$TObjectCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.H_ref;
+    head   :4: import gnu.trove.impl.hash.THash;
+[X] gnu/trove/map/hash/TObjectCharHashMap$TObjectCharHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectCharHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.aa;
+    head   :9: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectDoubleHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectDoubleHashMap$TDoubleValueCollection$TObjectDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.H_ref;
+    head   :4: import gnu.trove.impl.hash.THash;
+[X] gnu/trove/map/hash/TObjectDoubleHashMap$TObjectDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectDoubleHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.aa;
+    head   :10: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectFloatHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectFloatHashMap$TFloatValueCollection$TObjectFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.aa;
+    head   :4: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectFloatHashMap$TObjectFloatHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectFloatHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.aa;
+    head   :10: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectIntHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectIntHashMap$TIntValueCollection$TObjectIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.H_ref;
+    head   :4: import gnu.trove.impl.hash.THash;
+[X] gnu/trove/map/hash/TObjectIntHashMap$TObjectIntHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectIntHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.aa;
+    head   :10: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectLongHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectLongHashMap$TLongValueCollection$TObjectLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.H_ref;
+    head   :4: import gnu.trove.impl.hash.THash;
+[X] gnu/trove/map/hash/TObjectLongHashMap$TObjectLongHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectLongHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.aa;
+    head   :10: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TObjectShortHashMap$KeyView.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ca.a;
+    head   :4: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectShortHashMap$TObjectShortHashIterator.java
+    different token count: 9 vs 11
+    master :5: import gnu.trove.ca.a;
+    head   :5: import gnu.trove.iterator.hash.TObjectHashIterator;
+[X] gnu/trove/map/hash/TObjectShortHashMap$TShortValueCollection$TObjectShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.H_ref;
+    head   :4: import gnu.trove.impl.hash.THash;
+[X] gnu/trove/map/hash/TObjectShortHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.aa;
+    head   :10: import gnu.trove.impl.hash.TObjectHash;
+[X] gnu/trove/map/hash/TShortByteHashMap$TShortByteHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortByteHashMap$TShortByteKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortByteHashMap$TShortByteValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortByteHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.ac;
+    head   :9: import gnu.trove.impl.hash.TShortByteHash;
+[X] gnu/trove/map/hash/TShortCharHashMap$TShortCharHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortCharHashMap$TShortCharKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortCharHashMap$TShortCharValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortCharHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.ad;
+    head   :9: import gnu.trove.impl.hash.TShortCharHash;
+[X] gnu/trove/map/hash/TShortDoubleHashMap$TShortDoubleHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortDoubleHashMap$TShortDoubleKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortDoubleHashMap$TShortDoubleValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortDoubleHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.ae;
+    head   :10: import gnu.trove.impl.hash.TShortDoubleHash;
+[X] gnu/trove/map/hash/TShortFloatHashMap$TShortFloatHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortFloatHashMap$TShortFloatKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortFloatHashMap$TShortFloatValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortFloatHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.af;
+    head   :10: import gnu.trove.impl.hash.TShortFloatHash;
+[X] gnu/trove/map/hash/TShortIntHashMap$TShortIntHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortIntHashMap$TShortIntKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortIntHashMap$TShortIntValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortIntHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.ah;
+    head   :10: import gnu.trove.impl.hash.TShortIntHash;
+[X] gnu/trove/map/hash/TShortLongHashMap$TShortLongHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortLongHashMap$TShortLongKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortLongHashMap$TShortLongValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortLongHashMap.java
+    different token count: 9 vs 11
+    master :10: import gnu.trove.ba.ai;
+    head   :10: import gnu.trove.impl.hash.TShortLongHash;
+[X] gnu/trove/map/hash/TShortObjectHashMap$KeyView$TShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortObjectHashMap$TShortObjectHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortObjectHashMap$ValueView$TShortObjectValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortObjectHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.ag;
+    head   :9: import gnu.trove.impl.hash.TShortHash;
+[X] gnu/trove/map/hash/TShortShortHashMap$TShortShortHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortShortHashMap$TShortShortKeyHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortShortHashMap$TShortShortValueHashIterator.java
+    different token count: 9 vs 11
+    master :4: import gnu.trove.ba.J_ref;
+    head   :4: import gnu.trove.impl.hash.THashPrimitiveIterator;
+[X] gnu/trove/map/hash/TShortShortHashMap.java
+    different token count: 9 vs 11
+    master :9: import gnu.trove.ba.aj;
+    head   :9: import gnu.trove.impl.hash.TShortShortHash;
+[X] solver/AnalysisPanel.java
+    different token count: 17 vs 13
+    master :598: gnu.trove.da.c c2 = new gnu.trove.da.c();
+    head   :598: gnu.wrapper.IntList c2 = new gnu.wrapper.IntList();
+[X] solver/CardArrays.java
+    different token count: 17 vs 13
+    master :206: gnu.trove.fa.e var1 = new gnu.trove.fa.e();
+    head   :206: gnu.wrapper.LongSet seenHashes = new gnu.wrapper.LongSet();
+[X] solver/CardCombinations.java
+    different token count: 17 vs 13
+    master :1838: gnu.trove.fa.c var2 = new gnu.trove.fa.c();
+    head   :1838: gnu.wrapper.IntSet pairedRanks = new gnu.wrapper.IntSet();
+[X] solver/Equity.java
+    different token count: 17 vs 13
+    master :1310: gnu.trove.fa.e var5 = new gnu.trove.fa.e();
+    head   :1310: gnu.wrapper.LongSet visitedSet = new gnu.wrapper.LongSet();
+[X] solver/FlopNE.java
+    different token count: 10 vs 8
+    master :79: private static gnu.trove.fa.e ag;
+    head   :79: private static gnu.wrapper.LongSet troveCollection;
+[X] solver/HandFilterParser.java
+    different token count: 29 vs 27
+    master :438: gnu.trove.da.c var3 = AnalysisPanel.is5Card() ? OmahaHandRange.h5c[var19[var16]] : OmahaHandRange.h[var19[var16]];
+    head   :438: gnu.wrapper.IntList bucketCombos = AnalysisPanel.is5Card() ? OmahaHandRange.bucketToCombos5c[ranking[rankingIdx]] : OmahaHandRange.bucketToCombos4c[ranking[rankingIdx]];
+[X] solver/OmahaEquityGenerator.java
+    different token count: 17 vs 13
+    master :24: gnu.trove.fa.e var2 = new gnu.trove.fa.e();
+    head   :24: gnu.wrapper.LongSet seenBoards = new gnu.wrapper.LongSet();
+[X] solver/OmahaEquityTask.java
+    different token count: 9 vs 7
+    master :31: gnu.trove.fa.e var2;
+    head   :31: gnu.wrapper.LongSet var2;
+[X] solver/OmahaHandRange.java
+    different token count: 11 vs 9
+    master :20: static gnu.trove.da.c[] h;           // bucket -> combos mapping for 4-card
+    head   :20: static gnu.wrapper.IntList[] bucketToCombos4c;           // bucket -> combos mapping for 4-card
+[X] solver/PokerTreeNode.java
+    different token count: 9 vs 7
+    master :365: gnu.trove.fa.c var6;
+    head   :365: gnu.wrapper.IntSet addedTypes;
+[X] solver/ProgressBarTask.java
+    different token count: 9 vs 7
+    master :26: gnu.trove.fa.e var2;
+    head   :26: gnu.wrapper.LongSet var2;
+[X] solver/ResultsReader.java
+    different token count: 18 vs 14
+    master :32: protected gnu.trove.fa.a i = new gnu.trove.fa.a();
+    head   :32: protected gnu.wrapper.CharSet i = new gnu.wrapper.CharSet();
+
+Summary: 536/808 common files match
+Mismatched: 272
+Missing: 608

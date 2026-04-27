@@ -1,0 +1,27 @@
+[X] gnu/trove/list/array/TCharArrayList.java
+    paths: master=gnu/trove/da/a.java | head=gnu/trove/list/array/TCharArrayList.java
+    different line counts: 217 vs 197
+[X] gnu/trove/list/array/TIntArrayList.java
+    paths: master=gnu/trove/da/c.java | head=gnu/trove/list/array/TIntArrayList.java
+    different line counts: 283 vs 218
+[X] gnu/trove/list/array/TLongArrayList.java
+    paths: master=gnu/trove/da/e.java | head=gnu/trove/list/array/TLongArrayList.java
+    different line counts: 255 vs 184
+[X] gnu/trove/set/hash/TCharHashSet.java
+    paths: master=gnu/trove/fa/a.java | head=gnu/trove/set/hash/TCharHashSet.java
+    text differs: 'publicfinalclass' vs 'publicclass'
+    master :14: public final class a extends m implements gnu.trove.f_ref.b, Externalizable {
+    head   :14: public class TCharHashSet extends TCharHash implements gnu.trove.set.TCharSet, Externalizable {
+[X] gnu/trove/set/hash/TIntHashSet.java
+    paths: master=gnu/trove/fa/c.java | head=gnu/trove/set/hash/TIntHashSet.java
+    text differs: 'publicfinalclass' vs 'publicclass'
+    master :13: public final class c extends O_ref implements gnu.trove.f_ref.e, Externalizable {
+    head   :13: public class TIntHashSet extends TIntHash implements gnu.trove.set.TIntSet, Externalizable {
+[X] gnu/trove/set/hash/TLongHashSet.java
+    paths: master=gnu/trove/fa/e.java | head=gnu/trove/set/hash/TLongHashSet.java
+    text differs: 'publicfinalclass' vs 'publicclass'
+    master :13: public final class e extends W_ref implements gnu.trove.f_ref.f, Externalizable {
+    head   :13: public class TLongHashSet extends TLongHash implements gnu.trove.set.TLongSet, Externalizable {
+
+Summary: 1103/1109 common files match
+Mismatched: 6
