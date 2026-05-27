@@ -1,0 +1,11 @@
+*.class
+!evidence/**/*.class
+*.jar
+!evidence/**/*.jar
+target/
+build/
+out/
+.idea/
+.vscode/
+*.iml
+.DS_Store
